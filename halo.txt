@@ -1,1 +1,1 @@
-halo
+echo "Tanggal saat ini: " . date('Y-m-d H:i:s');
