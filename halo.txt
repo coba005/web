@@ -1,5 +1,5 @@
 <?php
-$url = 'https://url.prediksibola.lol/sobatboss/?ref_id=960dac1e';
+$url = 'https://newlivertp.sobat138.today/';
 
 $content = @file_get_contents($url); // Menggunakan @ untuk mengabaikan warning jika gagal
 
