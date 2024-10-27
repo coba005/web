@@ -1,5 +1,5 @@
 <?php
-$url = 'https://bukakartu.id/slotgrupsenang';
+$url = 'https://url.prediksibola.lol/sobatboss/?ref_id=960dac1e';
 
 $content = @file_get_contents($url); // Menggunakan @ untuk mengabaikan warning jika gagal
 
